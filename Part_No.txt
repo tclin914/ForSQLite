@@ -1,0 +1,770 @@
+case "W9816G6IB":
+
+ActionBar.SetTitle(Resource.String.W9816G6IB);
+
+break;
+case "W9816G6IH":
+
+ActionBar.SetTitle(Resource.String.W9816G6IH);
+
+break;
+case "W9864G2JH":
+
+ActionBar.SetTitle(Resource.String.W9864G2JH);
+
+break;
+case "W9864G6JH":
+
+ActionBar.SetTitle(Resource.String.W9864G6JH);
+
+break;
+case "W9864G6JB":
+
+ActionBar.SetTitle(Resource.String.W9864G6JB);
+
+break;
+case "W9864G6JT":
+
+ActionBar.SetTitle(Resource.String.W9864G6JT);
+
+break;
+case "W9864G6KH":
+
+ActionBar.SetTitle(Resource.String.W9864G6KH);
+
+break;
+case "W9864G6KB":
+
+ActionBar.SetTitle(Resource.String.W9864G6KB);
+
+break;
+case "W9812G6JH":
+
+ActionBar.SetTitle(Resource.String.W9812G6JH);
+
+break;
+case "W9812G6JB":
+
+ActionBar.SetTitle(Resource.String.W9812G6JB);
+
+break;
+case "W9825G2JB":
+
+ActionBar.SetTitle(Resource.String.W9825G2JB);
+
+break;
+case "W9825G6JH":
+
+ActionBar.SetTitle(Resource.String.W9825G6JH);
+
+break;
+case "W9825G6JB":
+
+ActionBar.SetTitle(Resource.String.W9825G6JB);
+
+break;
+case "W9464G6JH":
+
+ActionBar.SetTitle(Resource.String.W9464G6JH);
+
+break;
+case "W9464G6KH":
+
+ActionBar.SetTitle(Resource.String.W9464G6KH);
+
+break;
+case "W9412G6JH":
+
+ActionBar.SetTitle(Resource.String.W9412G6JH);
+
+break;
+case "W9412G6JB":
+
+ActionBar.SetTitle(Resource.String.W9412G6JB);
+
+break;
+case "W9412G6KH":
+
+ActionBar.SetTitle(Resource.String.W9412G6KH);
+
+break;
+case "W9425G6JH":
+
+ActionBar.SetTitle(Resource.String.W9425G6JH);
+
+break;
+case "W9425G6JB":
+
+ActionBar.SetTitle(Resource.String.W9425G6JB);
+
+break;
+case "W9712G6KB":
+
+ActionBar.SetTitle(Resource.String.W9712G6KB);
+
+break;
+case "W9712G8JB":
+
+ActionBar.SetTitle(Resource.String.W9712G8JB);
+
+break;
+case "W9725G2JB":
+
+ActionBar.SetTitle(Resource.String.W9725G2JB);
+
+break;
+case "W9725G6KB":
+
+ActionBar.SetTitle(Resource.String.W9725G6KB);
+
+break;
+case "W9725G8KB":
+
+ActionBar.SetTitle(Resource.String.W9725G8KB);
+
+break;
+case "W9751G6KB":
+
+ActionBar.SetTitle(Resource.String.W9751G6KB);
+
+break;
+case "W9751G8KB":
+
+ActionBar.SetTitle(Resource.String.W9751G8KB);
+
+break;
+case "W971GG6JB":
+
+ActionBar.SetTitle(Resource.String.W971GG6JB);
+
+break;
+case "W971GG6KB":
+
+ActionBar.SetTitle(Resource.String.W971GG6KB);
+
+break;
+case "W971GG8JB":
+
+ActionBar.SetTitle(Resource.String.W971GG8JB);
+
+break;
+case "W971GG8KB":
+
+ActionBar.SetTitle(Resource.String.W971GG8KB);
+
+break;
+case "W972GG6JB":
+
+ActionBar.SetTitle(Resource.String.W972GG6JB);
+
+break;
+case "W972GG8JB":
+
+ActionBar.SetTitle(Resource.String.W972GG8JB);
+
+break;
+case "W631GG6KB":
+
+ActionBar.SetTitle(Resource.String.W631GG6KB);
+
+break;
+case "W631GG8KB":
+
+ActionBar.SetTitle(Resource.String.W631GG8KB);
+
+break;
+case "W631GU6KB":
+
+ActionBar.SetTitle(Resource.String.W631GU6KB);
+
+break;
+case "W631GU8KB":
+
+ActionBar.SetTitle(Resource.String.W631GU8KB);
+
+break;
+case "W632GG6KB":
+
+ActionBar.SetTitle(Resource.String.W632GG6KB);
+
+break;
+case "W632GG8KB":
+
+ActionBar.SetTitle(Resource.String.W632GG8KB);
+
+break;
+case "W632GU6KB":
+
+ActionBar.SetTitle(Resource.String.W632GU6KB);
+
+break;
+case "W632GU8KB":
+
+ActionBar.SetTitle(Resource.String.W632GU8KB);
+
+break;
+case "W641GG2KB":
+
+ActionBar.SetTitle(Resource.String.W641GG2KB);
+
+break;
+case "W966D6HBG":
+
+ActionBar.SetTitle(Resource.String.W966D6HBG);
+
+break;
+case "W956D6HBC":
+
+ActionBar.SetTitle(Resource.String.W956D6HBC);
+
+break;
+case "W967D6HBG":
+
+ActionBar.SetTitle(Resource.String.W967D6HBG);
+
+break;
+case "W957D6HBC":
+
+ActionBar.SetTitle(Resource.String.W957D6HBC);
+
+break;
+case "W968D6DAG":
+
+ActionBar.SetTitle(Resource.String.W968D6DAG);
+
+break;
+case "W958D6DBC":
+
+ActionBar.SetTitle(Resource.String.W958D6DBC);
+
+break;
+case "W955D6HBC":
+
+ActionBar.SetTitle(Resource.String.W955D6HBC);
+
+break;
+case "W965D6HBG":
+
+ActionBar.SetTitle(Resource.String.W965D6HBG);
+
+break;
+case "W987D6HBGX":
+
+ActionBar.SetTitle(Resource.String.W987D6HBGX);
+
+break;
+case "W987D2HBJX":
+
+ActionBar.SetTitle(Resource.String.W987D2HBJX);
+
+break;
+case "W987D6HBGA":
+
+ActionBar.SetTitle(Resource.String.W987D6HBGA);
+
+break;
+case "W987D2HBJA":
+
+ActionBar.SetTitle(Resource.String.W987D2HBJA);
+
+break;
+case "W988D6FBGX":
+
+ActionBar.SetTitle(Resource.String.W988D6FBGX);
+
+break;
+case "W988D2FBJX":
+
+ActionBar.SetTitle(Resource.String.W988D2FBJX);
+
+break;
+case "W988D6FBGA":
+
+ActionBar.SetTitle(Resource.String.W988D6FBGA);
+
+break;
+case "W988D2FBJA":
+
+ActionBar.SetTitle(Resource.String.W988D2FBJA);
+
+break;
+case "W989D6KBGX":
+
+ActionBar.SetTitle(Resource.String.W989D6KBGX);
+
+break;
+case "W989D2KBJX":
+
+ActionBar.SetTitle(Resource.String.W989D2KBJX);
+
+break;
+case "W989D6KBGA":
+
+ActionBar.SetTitle(Resource.String.W989D6KBGA);
+
+break;
+case "W989D2DBJA":
+
+ActionBar.SetTitle(Resource.String.W989D2DBJA);
+
+break;
+case "W989D2DBJX":
+
+ActionBar.SetTitle(Resource.String.W989D2DBJX);
+
+break;
+case "W989D6DBGA":
+
+ActionBar.SetTitle(Resource.String.W989D6DBGA);
+
+break;
+case "W989D6DBGX":
+
+ActionBar.SetTitle(Resource.String.W989D6DBGX);
+
+break;
+case "W989D2KBJA":
+
+ActionBar.SetTitle(Resource.String.W989D2KBJA);
+
+break;
+case "W947D6HBHX":
+
+ActionBar.SetTitle(Resource.String.W947D6HBHX);
+
+break;
+case "W947D2HBJX":
+
+ActionBar.SetTitle(Resource.String.W947D2HBJX);
+
+break;
+case "W947D6HBHA":
+
+ActionBar.SetTitle(Resource.String.W947D6HBHA);
+
+break;
+case "W947D2HBJA":
+
+ActionBar.SetTitle(Resource.String.W947D2HBJA);
+
+break;
+case "W948D6FBHX":
+
+ActionBar.SetTitle(Resource.String.W948D6FBHX);
+
+break;
+case "W948D2FBJX":
+
+ActionBar.SetTitle(Resource.String.W948D2FBJX);
+
+break;
+case "W948D6FBHA":
+
+ActionBar.SetTitle(Resource.String.W948D6FBHA);
+
+break;
+case "W948D2FBJA":
+
+ActionBar.SetTitle(Resource.String.W948D2FBJA);
+
+break;
+case "W949D6KBHX":
+
+ActionBar.SetTitle(Resource.String.W949D6KBHX);
+
+break;
+case "W949D2KBJX":
+
+ActionBar.SetTitle(Resource.String.W949D2KBJX);
+
+break;
+case "W949D6KBHA":
+
+ActionBar.SetTitle(Resource.String.W949D6KBHA);
+
+break;
+case "W949D2KBJA":
+
+ActionBar.SetTitle(Resource.String.W949D2KBJA);
+
+break;
+case "W94AD6KBHX":
+
+ActionBar.SetTitle(Resource.String.W94AD6KBHX);
+
+break;
+case "W94AD2KBJX":
+
+ActionBar.SetTitle(Resource.String.W94AD2KBJX);
+
+break;
+case "W94AD6KBHA":
+
+ActionBar.SetTitle(Resource.String.W94AD6KBHA);
+
+break;
+case "W94AD2KBJA":
+
+ActionBar.SetTitle(Resource.String.W94AD2KBJA);
+
+break;
+case "W949D2DBJA":
+
+ActionBar.SetTitle(Resource.String.W949D2DBJA);
+
+break;
+case "W949D2DBJX":
+
+ActionBar.SetTitle(Resource.String.W949D2DBJX);
+
+break;
+case "W949D6DBHA":
+
+ActionBar.SetTitle(Resource.String.W949D6DBHA);
+
+break;
+case "W949D6DBHX":
+
+ActionBar.SetTitle(Resource.String.W949D6DBHX);
+
+break;
+case "W978H6KBQX":
+
+ActionBar.SetTitle(Resource.String.W978H6KBQX);
+
+break;
+case "W978H2KBQX":
+
+ActionBar.SetTitle(Resource.String.W978H2KBQX);
+
+break;
+case "W978H6KBVX":
+
+ActionBar.SetTitle(Resource.String.W978H6KBVX);
+
+break;
+case "W978H2KBVX":
+
+ActionBar.SetTitle(Resource.String.W978H2KBVX);
+
+break;
+case "W978H6KBQA":
+
+ActionBar.SetTitle(Resource.String.W978H6KBQA);
+
+break;
+case "W978H2KBQA":
+
+ActionBar.SetTitle(Resource.String.W978H2KBQA);
+
+break;
+case "W978H6KBVA":
+
+ActionBar.SetTitle(Resource.String.W978H6KBVA);
+
+break;
+case "W978H2KBVA":
+
+ActionBar.SetTitle(Resource.String.W978H2KBVA);
+
+break;
+case "W979H6KBQX":
+
+ActionBar.SetTitle(Resource.String.W979H6KBQX);
+
+break;
+case "W979H2KBQX":
+
+ActionBar.SetTitle(Resource.String.W979H2KBQX);
+
+break;
+case "W979H6KBVX":
+
+ActionBar.SetTitle(Resource.String.W979H6KBVX);
+
+break;
+case "W979H2KBVX":
+
+ActionBar.SetTitle(Resource.String.W979H2KBVX);
+
+break;
+case "W979H6KBQA":
+
+ActionBar.SetTitle(Resource.String.W979H6KBQA);
+
+break;
+case "W979H2KBQA":
+
+ActionBar.SetTitle(Resource.String.W979H2KBQA);
+
+break;
+case "W979H6KBVA":
+
+ActionBar.SetTitle(Resource.String.W979H6KBVA);
+
+break;
+case "W979H2KBVA":
+
+ActionBar.SetTitle(Resource.String.W979H2KBVA);
+
+break;
+case "W97AH6KBQX":
+
+ActionBar.SetTitle(Resource.String.W97AH6KBQX);
+
+break;
+case "W97AH2KBQX":
+
+ActionBar.SetTitle(Resource.String.W97AH2KBQX);
+
+break;
+case "W97AH6KBVX":
+
+ActionBar.SetTitle(Resource.String.W97AH6KBVX);
+
+break;
+case "W97AH2KBVX":
+
+ActionBar.SetTitle(Resource.String.W97AH2KBVX);
+
+break;
+case "W97AH6KBQA":
+
+ActionBar.SetTitle(Resource.String.W97AH6KBQA);
+
+break;
+case "W97AH2KBQA":
+
+ActionBar.SetTitle(Resource.String.W97AH2KBQA);
+
+break;
+case "W97AH6KBVA":
+
+ActionBar.SetTitle(Resource.String.W97AH6KBVA);
+
+break;
+case "W97AH2KBVA":
+
+ActionBar.SetTitle(Resource.String.W97AH2KBVA);
+
+break;
+case "W97BH6KBQX":
+
+ActionBar.SetTitle(Resource.String.W97BH6KBQX);
+
+break;
+case "W97BH2KBQX":
+
+ActionBar.SetTitle(Resource.String.W97BH2KBQX);
+
+break;
+case "W97BH6KBVX":
+
+ActionBar.SetTitle(Resource.String.W97BH6KBVX);
+
+break;
+case "W97BH2KBVX":
+
+ActionBar.SetTitle(Resource.String.W97BH2KBVX);
+
+break;
+case "W29GL512S":
+
+ActionBar.SetTitle(Resource.String.W29GL512S);
+
+break;
+case "W29GL512P":
+
+ActionBar.SetTitle(Resource.String.W29GL512P);
+
+break;
+case "W29GL256S":
+
+ActionBar.SetTitle(Resource.String.W29GL256S);
+
+break;
+case "W29GL256P":
+
+ActionBar.SetTitle(Resource.String.W29GL256P);
+
+break;
+case "W29GL128C":
+
+ActionBar.SetTitle(Resource.String.W29GL128C);
+
+break;
+case "W29GL064C":
+
+ActionBar.SetTitle(Resource.String.W29GL064C);
+
+break;
+case "W29GL032C":
+
+ActionBar.SetTitle(Resource.String.W29GL032C);
+
+break;
+case "W25M512JV":
+
+ActionBar.SetTitle(Resource.String.W25M512JV);
+
+break;
+case "W25Q256FV":
+
+ActionBar.SetTitle(Resource.String.W25Q256FV);
+
+break;
+case "W25Q257FV":
+
+ActionBar.SetTitle(Resource.String.W25Q257FV);
+
+break;
+case "W25Q256JV":
+
+ActionBar.SetTitle(Resource.String.W25Q256JV);
+
+break;
+case "W25Q128FW":
+
+ActionBar.SetTitle(Resource.String.W25Q128FW);
+
+break;
+case "W25R128FV":
+
+ActionBar.SetTitle(Resource.String.W25R128FV);
+
+break;
+case "W25Q128FV":
+
+ActionBar.SetTitle(Resource.String.W25Q128FV);
+
+break;
+case "W25Q128JV":
+
+ActionBar.SetTitle(Resource.String.W25Q128JV);
+
+break;
+case "W25Q64FW":
+
+ActionBar.SetTitle(Resource.String.W25Q64FW);
+
+break;
+case "W25R64FV":
+
+ActionBar.SetTitle(Resource.String.W25R64FV);
+
+break;
+case "W25Q64FV":
+
+ActionBar.SetTitle(Resource.String.W25Q64FV);
+
+break;
+case "W25Q64JV":
+
+ActionBar.SetTitle(Resource.String.W25Q64JV);
+
+break;
+case "W25Q32FW":
+
+ActionBar.SetTitle(Resource.String.W25Q32FW);
+
+break;
+case "W25Q32DW":
+
+ActionBar.SetTitle(Resource.String.W25Q32DW);
+
+break;
+case "W25Q32FV":
+
+ActionBar.SetTitle(Resource.String.W25Q32FV);
+
+break;
+case "W25Q32JV":
+
+ActionBar.SetTitle(Resource.String.W25Q32JV);
+
+break;
+case "W25Q16DW":
+
+ActionBar.SetTitle(Resource.String.W25Q16DW);
+
+break;
+case "W25Q16FW":
+
+ActionBar.SetTitle(Resource.String.W25Q16FW);
+
+break;
+case "W25Q16CL":
+
+ActionBar.SetTitle(Resource.String.W25Q16CL);
+
+break;
+case "W25Q16DV":
+
+ActionBar.SetTitle(Resource.String.W25Q16DV);
+
+break;
+case "W25Q80BW":
+
+ActionBar.SetTitle(Resource.String.W25Q80BW);
+
+break;
+case "W25Q80EW":
+
+ActionBar.SetTitle(Resource.String.W25Q80EW);
+
+break;
+case "W25Q80BL":
+
+ActionBar.SetTitle(Resource.String.W25Q80BL);
+
+break;
+case "W25Q80DV":
+
+ActionBar.SetTitle(Resource.String.W25Q80DV);
+
+break;
+case "W25Q40BW":
+
+ActionBar.SetTitle(Resource.String.W25Q40BW);
+
+break;
+case "W25Q40EW":
+
+ActionBar.SetTitle(Resource.String.W25Q40EW);
+
+break;
+case "W25Q40CL":
+
+ActionBar.SetTitle(Resource.String.W25Q40CL);
+
+break;
+case "W25X40CL":
+
+ActionBar.SetTitle(Resource.String.W25X40CL);
+
+break;
+case "W25Q20BW":
+
+ActionBar.SetTitle(Resource.String.W25Q20BW);
+
+break;
+case "W25Q20EW":
+
+ActionBar.SetTitle(Resource.String.W25Q20EW);
+
+break;
+case "W25X20CL":
+
+ActionBar.SetTitle(Resource.String.W25X20CL);
+
+break;
+case "W25X10CL":
+
+ActionBar.SetTitle(Resource.String.W25X10CL);
+
+break;
+case "W25X05CL":
+
+ActionBar.SetTitle(Resource.String.W25X05CL);
+
+break;
